@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "module 18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kn7767/social-network-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kn7767/social-network-api/issues"
+  },
+  "homepage": "https://github.com/kn7767/social-network-api#readme",
+  "dependencies": {
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1"
+  }
+}
